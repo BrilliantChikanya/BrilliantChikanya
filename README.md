@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrilliantChikanya
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science and web development
+- 🌱 I’m currently learning Python and Django
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me brilliant.chikanya@gmail.com 
 
 <!---
