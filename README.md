@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Python and Data Science
 
-- 💞️ I’m looking to collaborate on data science
+- 💞️ I’m looking to collaborate on **Data science**
 
 - 📫 You can contact me on **brilliant.chikanya@gmail.com** 
 
