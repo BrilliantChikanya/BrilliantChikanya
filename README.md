@@ -1,9 +1,8 @@
 - 👋 Hi friend, my name is Brilliant Chikanya **@brilliantChikanya**
 
-- 👀 I have interests in the following languages: **C**, **Java**, **JavaScript**, **Python**.
-- I also love **Linux administration**, **Data Science** and **Web Development**. 
+- 👀 I have interests in the following languages: **Java**, **Python** 
 
-- 🌱 I’m currently learning Python and Data Science
+- 🌱 I’m currently learning Data Structures using Java.
 
 - 💞️ I’m looking to collaborate on **Data Science and Web Development**
 
