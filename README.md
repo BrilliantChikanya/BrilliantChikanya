@@ -1,4 +1,4 @@
-- 👋 Hi friend, my name is Brilliant Chikanya **@brilliantChikanya**
+- 👋 Hi friend, my name is Brilliant Chikanya **@brilliantchikanya**
 
 - 👀 I have interests in the following languages: **Java**, **Python** 
 
